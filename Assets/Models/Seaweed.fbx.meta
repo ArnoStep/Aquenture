@@ -1,0 +1,2771 @@
+fileFormatVersion: 2
+guid: 8d9819f081e62e74ea74eb66ebbbf386
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: -3915707623049118622
+    second: Armature.002|List1
+  - first:
+      74: 3062935218314255627
+    second: Armature.002|List2
+  - first:
+      74: -3735352931177434905
+    second: Armature.002|List3
+  - first:
+      74: -2745353775406206192
+    second: Armature.002|List4
+  - first:
+      74: -3634029845668108129
+    second: Armature.002|List5
+  - first:
+      74: -8892654866207099884
+    second: Armature.004|List1
+  - first:
+      74: 1467699858403291841
+    second: Armature.004|List2
+  - first:
+      74: -985190150903758862
+    second: Armature.004|List3
+  - first:
+      74: 2662339042394711952
+    second: Armature.004|List4
+  - first:
+      74: 3717212050346896141
+    second: Armature.004|List5
+  - first:
+      74: -8128329350393109226
+    second: Armature.001|List1
+  - first:
+      74: 8661928234021750895
+    second: Armature.001|List2
+  - first:
+      74: -2278931652470305839
+    second: Armature.001|List3
+  - first:
+      74: -5529140474154349359
+    second: Armature.001|List4
+  - first:
+      74: -3311633351374798782
+    second: Armature.001|List5
+  - first:
+      74: 9093339824129290565
+    second: Armature.006|List1
+  - first:
+      74: -4732053536101355574
+    second: Armature.006|List2
+  - first:
+      74: 3747527555624018995
+    second: Armature.006|List3
+  - first:
+      74: 3977054035655093045
+    second: Armature.006|List4
+  - first:
+      74: 3712906798743041214
+    second: Armature.006|List5
+  - first:
+      74: 7441434848540556603
+    second: Armature.003|List1
+  - first:
+      74: 7755866252902140346
+    second: Armature.003|List2
+  - first:
+      74: 1366173173594422093
+    second: Armature.003|List3
+  - first:
+      74: -5146379252300667555
+    second: Armature.003|List4
+  - first:
+      74: 6712779705437775230
+    second: Armature.003|List5
+  - first:
+      74: 4095439553167672116
+    second: Armature.002|List1 //// Armature.002
+  - first:
+      74: 8861227089092496775
+    second: Armature.002|List2 //// Armature.002
+  - first:
+      74: -6943911041208366316
+    second: Armature.002|List3 //// Armature.002
+  - first:
+      74: -7370490496635731212
+    second: Armature.002|List4 //// Armature.002
+  - first:
+      74: -8574826870249875354
+    second: Armature.002|List5 //// Armature.002
+  - first:
+      74: 7839579769246720343
+    second: Armature.004|List1 //// Armature.002
+  - first:
+      74: 8239887723174581117
+    second: Armature.004|List2 //// Armature.002
+  - first:
+      74: 6391946404028996360
+    second: Armature.004|List3 //// Armature.002
+  - first:
+      74: -8839905673953461945
+    second: Armature.004|List4 //// Armature.002
+  - first:
+      74: -6584186692354416699
+    second: Armature.004|List5 //// Armature.002
+  - first:
+      74: -9218438048737384568
+    second: Armature.001|List1 //// Armature.002
+  - first:
+      74: 4336433236058119132
+    second: Armature.001|List2 //// Armature.002
+  - first:
+      74: -99008337905141890
+    second: Armature.001|List3 //// Armature.002
+  - first:
+      74: 7144805347498978459
+    second: Armature.001|List4 //// Armature.002
+  - first:
+      74: -7885563510510112361
+    second: Armature.001|List5 //// Armature.002
+  - first:
+      74: 1249667497471854546
+    second: Armature.006|List1 //// Armature.002
+  - first:
+      74: -395553171010367181
+    second: Armature.006|List2 //// Armature.002
+  - first:
+      74: 1972636706988838480
+    second: Armature.006|List3 //// Armature.002
+  - first:
+      74: -460915709614792466
+    second: Armature.006|List4 //// Armature.002
+  - first:
+      74: 3795221996968297310
+    second: Armature.006|List5 //// Armature.002
+  - first:
+      74: -175896661693681099
+    second: Armature.003|List1 //// Armature.002
+  - first:
+      74: -6047625909782921366
+    second: Armature.003|List2 //// Armature.002
+  - first:
+      74: -8123302003289972434
+    second: Armature.003|List3 //// Armature.002
+  - first:
+      74: -5906769275694094817
+    second: Armature.003|List4 //// Armature.002
+  - first:
+      74: -7934563730734561308
+    second: Armature.003|List5 //// Armature.002
+  - first:
+      74: 465234285264654049
+    second: Armature.002|List1 //// Armature.002
+  - first:
+      74: -9205608075811341349
+    second: Armature.002|List2 //// Armature.002
+  - first:
+      74: -9196892250226572522
+    second: Armature.002|List3 //// Armature.002
+  - first:
+      74: 9102473397969682998
+    second: Armature.002|List4 //// Armature.002
+  - first:
+      74: 8879263066485753234
+    second: Armature.002|List5 //// Armature.002
+  - first:
+      74: -6789798459944519738
+    second: Armature.004|List1 //// Armature.002
+  - first:
+      74: -4539651268160691266
+    second: Armature.004|List2 //// Armature.002
+  - first:
+      74: -3685054052798914887
+    second: Armature.004|List3 //// Armature.002
+  - first:
+      74: -5570545950414172058
+    second: Armature.004|List4 //// Armature.002
+  - first:
+      74: -5665398327709015815
+    second: Armature.004|List5 //// Armature.002
+  - first:
+      74: -7220891589330356295
+    second: Armature.001|List1 //// Armature.002
+  - first:
+      74: 8742943623243465390
+    second: Armature.001|List2 //// Armature.002
+  - first:
+      74: -528892493287392304
+    second: Armature.001|List3 //// Armature.002
+  - first:
+      74: -6325127313518236800
+    second: Armature.001|List4 //// Armature.002
+  - first:
+      74: -2445608169303115945
+    second: Armature.001|List5 //// Armature.002
+  - first:
+      74: -8318493282450895794
+    second: Armature.006|List1 //// Armature.002
+  - first:
+      74: -1481494824410266950
+    second: Armature.006|List2 //// Armature.002
+  - first:
+      74: 1797061425676231585
+    second: Armature.006|List3 //// Armature.002
+  - first:
+      74: 4835471744135590149
+    second: Armature.006|List4 //// Armature.002
+  - first:
+      74: 3654307793666240690
+    second: Armature.006|List5 //// Armature.002
+  - first:
+      74: 6000902395866650835
+    second: Armature.003|List1 //// Armature.002
+  - first:
+      74: 5305660985444905146
+    second: Armature.003|List2 //// Armature.002
+  - first:
+      74: 3122779916045906253
+    second: Armature.003|List3 //// Armature.002
+  - first:
+      74: -1531576648409478535
+    second: Armature.003|List4 //// Armature.002
+  - first:
+      74: 5440520800404891821
+    second: Armature.003|List5 //// Armature.002
+  - first:
+      74: -7014891476230250647
+    second: Armature.002|List1 //// Armature.002
+  - first:
+      74: -8410168947298036046
+    second: Armature.002|List2 //// Armature.002
+  - first:
+      74: -7492167970470500154
+    second: Armature.002|List3 //// Armature.002
+  - first:
+      74: 7069804718294434063
+    second: Armature.002|List4 //// Armature.002
+  - first:
+      74: 7591825207889781045
+    second: Armature.002|List5 //// Armature.002
+  - first:
+      74: 5929054320697812380
+    second: Armature.004|List1 //// Armature.002
+  - first:
+      74: -2014449511749447889
+    second: Armature.004|List2 //// Armature.002
+  - first:
+      74: -6616211870303663500
+    second: Armature.004|List3 //// Armature.002
+  - first:
+      74: 228400666648638511
+    second: Armature.004|List4 //// Armature.002
+  - first:
+      74: -615658517243959114
+    second: Armature.004|List5 //// Armature.002
+  - first:
+      74: -4482493259206207958
+    second: Armature.001|List1 //// Armature.002
+  - first:
+      74: 6114603058317394764
+    second: Armature.001|List2 //// Armature.002
+  - first:
+      74: -6069180073115239613
+    second: Armature.001|List3 //// Armature.002
+  - first:
+      74: -5001215134263891188
+    second: Armature.001|List4 //// Armature.002
+  - first:
+      74: -1269494131325248844
+    second: Armature.001|List5 //// Armature.002
+  - first:
+      74: -694904800212486515
+    second: Armature.006|List1 //// Armature.002
+  - first:
+      74: 3058595909728314394
+    second: Armature.006|List2 //// Armature.002
+  - first:
+      74: 8619795591355246764
+    second: Armature.006|List3 //// Armature.002
+  - first:
+      74: 9189194643573486828
+    second: Armature.006|List4 //// Armature.002
+  - first:
+      74: 7826134788344741926
+    second: Armature.006|List5 //// Armature.002
+  - first:
+      74: -864586126720752842
+    second: Armature.003|List1 //// Armature.002
+  - first:
+      74: -8522136770600828148
+    second: Armature.003|List2 //// Armature.002
+  - first:
+      74: -2997740383880778510
+    second: Armature.003|List3 //// Armature.002
+  - first:
+      74: 6760824374795745174
+    second: Armature.003|List4 //// Armature.002
+  - first:
+      74: -4601228121191125666
+    second: Armature.003|List5 //// Armature.002
+  - first:
+      74: -3394761353641581752
+    second: Armature.002|List1 //// Armature.002
+  - first:
+      74: 1390660299129863419
+    second: Armature.002|List2 //// Armature.002
+  - first:
+      74: -485844937979911854
+    second: Armature.002|List3 //// Armature.002
+  - first:
+      74: 5162300574318498189
+    second: Armature.002|List4 //// Armature.002
+  - first:
+      74: -3183423729172965308
+    second: Armature.002|List5 //// Armature.002
+  - first:
+      74: -8543612655675597131
+    second: Armature.004|List1 //// Armature.002
+  - first:
+      74: -8160904208945963080
+    second: Armature.004|List2 //// Armature.002
+  - first:
+      74: 9126877507110220506
+    second: Armature.004|List3 //// Armature.002
+  - first:
+      74: 7373833754307983352
+    second: Armature.004|List4 //// Armature.002
+  - first:
+      74: 5098447833255513188
+    second: Armature.004|List5 //// Armature.002
+  - first:
+      74: 7618292948664626087
+    second: Armature.001|List1 //// Armature.002
+  - first:
+      74: 1665963968588148529
+    second: Armature.001|List2 //// Armature.002
+  - first:
+      74: 3422928608783068780
+    second: Armature.001|List3 //// Armature.002
+  - first:
+      74: 7963803141555319347
+    second: Armature.001|List4 //// Armature.002
+  - first:
+      74: -4364438235109853045
+    second: Armature.001|List5 //// Armature.002
+  - first:
+      74: -2583319515821476089
+    second: Armature.006|List1 //// Armature.002
+  - first:
+      74: 363977809579845061
+    second: Armature.006|List2 //// Armature.002
+  - first:
+      74: 2720268322301121972
+    second: Armature.006|List3 //// Armature.002
+  - first:
+      74: -5613470150332313123
+    second: Armature.006|List4 //// Armature.002
+  - first:
+      74: 3707631573043160074
+    second: Armature.006|List5 //// Armature.002
+  - first:
+      74: 8263374536510590866
+    second: Armature.003|List1 //// Armature.002
+  - first:
+      74: -4569173935095558436
+    second: Armature.003|List2 //// Armature.002
+  - first:
+      74: -7528030699092953026
+    second: Armature.003|List3 //// Armature.002
+  - first:
+      74: 7639567730027633509
+    second: Armature.003|List4 //// Armature.002
+  - first:
+      74: -297541681793666118
+    second: Armature.003|List5 //// Armature.002
+  - first:
+      74: 3519832832392937815
+    second: Armature.002|List1 //// Armature.002
+  - first:
+      74: -5606199080717079259
+    second: Armature.002|List2 //// Armature.002
+  - first:
+      74: -964124310432232911
+    second: Armature.002|List3 //// Armature.002
+  - first:
+      74: -6928066412075324753
+    second: Armature.002|List4 //// Armature.002
+  - first:
+      74: 3447035217842257118
+    second: Armature.002|List5 //// Armature.002
+  - first:
+      74: -4522555824253187987
+    second: Armature.004|List1 //// Armature.002
+  - first:
+      74: 6697533822441084782
+    second: Armature.004|List2 //// Armature.002
+  - first:
+      74: 4191099188091571865
+    second: Armature.004|List3 //// Armature.002
+  - first:
+      74: -4011542695784201284
+    second: Armature.004|List4 //// Armature.002
+  - first:
+      74: -4092217124218871832
+    second: Armature.004|List5 //// Armature.002
+  - first:
+      74: 1150715031110698411
+    second: Armature.001|List1 //// Armature.002
+  - first:
+      74: -1305433782428589383
+    second: Armature.001|List2 //// Armature.002
+  - first:
+      74: -1895503254119357640
+    second: Armature.001|List3 //// Armature.002
+  - first:
+      74: 5208493574859398913
+    second: Armature.001|List4 //// Armature.002
+  - first:
+      74: -9027179597700438257
+    second: Armature.001|List5 //// Armature.002
+  - first:
+      74: -8257318260750029115
+    second: Armature.006|List1 //// Armature.002
+  - first:
+      74: 6649007425410718741
+    second: Armature.006|List2 //// Armature.002
+  - first:
+      74: 7155776688223496851
+    second: Armature.006|List3 //// Armature.002
+  - first:
+      74: -7375811530946359278
+    second: Armature.006|List4 //// Armature.002
+  - first:
+      74: 3226977027971147803
+    second: Armature.006|List5 //// Armature.002
+  - first:
+      74: -7798320171318654318
+    second: Armature.003|List1 //// Armature.002
+  - first:
+      74: 8593315901305254547
+    second: Armature.003|List2 //// Armature.002
+  - first:
+      74: -6221886019097473577
+    second: Armature.003|List3 //// Armature.002
+  - first:
+      74: -568381560827049461
+    second: Armature.003|List4 //// Armature.002
+  - first:
+      74: 4714322818672881662
+    second: Armature.003|List5 //// Armature.002
+  - first:
+      74: -3128635686458598316
+    second: Armature.002|List1 //// Armature.004
+  - first:
+      74: 2188542858436240868
+    second: Armature.002|List2 //// Armature.004
+  - first:
+      74: -6377450433543616286
+    second: Armature.002|List3 //// Armature.004
+  - first:
+      74: -5451745912158309039
+    second: Armature.002|List4 //// Armature.004
+  - first:
+      74: 370134080128380389
+    second: Armature.002|List5 //// Armature.004
+  - first:
+      74: 1989926208760586687
+    second: Armature.004|List1 //// Armature.004
+  - first:
+      74: -5977705676980822298
+    second: Armature.004|List2 //// Armature.004
+  - first:
+      74: 787892987400241541
+    second: Armature.004|List3 //// Armature.004
+  - first:
+      74: 8471396582876602311
+    second: Armature.004|List4 //// Armature.004
+  - first:
+      74: 5961684490991045713
+    second: Armature.004|List5 //// Armature.004
+  - first:
+      74: 8102735001447632812
+    second: Armature.001|List1 //// Armature.004
+  - first:
+      74: 3798555508048581841
+    second: Armature.001|List2 //// Armature.004
+  - first:
+      74: -9192959479962777863
+    second: Armature.001|List3 //// Armature.004
+  - first:
+      74: -6272472299170967845
+    second: Armature.001|List4 //// Armature.004
+  - first:
+      74: -7980007322120986272
+    second: Armature.001|List5 //// Armature.004
+  - first:
+      74: -6500880933172544744
+    second: Armature.006|List1 //// Armature.004
+  - first:
+      74: 6166291295817955050
+    second: Armature.006|List2 //// Armature.004
+  - first:
+      74: 1983465686897291210
+    second: Armature.006|List3 //// Armature.004
+  - first:
+      74: 1548604428289296199
+    second: Armature.006|List4 //// Armature.004
+  - first:
+      74: 832553150961990409
+    second: Armature.006|List5 //// Armature.004
+  - first:
+      74: -2066114564251367848
+    second: Armature.003|List1 //// Armature.004
+  - first:
+      74: -2108695861369272739
+    second: Armature.003|List2 //// Armature.004
+  - first:
+      74: -7735858001285203679
+    second: Armature.003|List3 //// Armature.004
+  - first:
+      74: -6885040377621021775
+    second: Armature.003|List4 //// Armature.004
+  - first:
+      74: -7475313348813600265
+    second: Armature.003|List5 //// Armature.004
+  - first:
+      74: 4645304150412523481
+    second: Armature.002|List1 //// Armature.004
+  - first:
+      74: -1107496061822758444
+    second: Armature.002|List2 //// Armature.004
+  - first:
+      74: -7483839627647993775
+    second: Armature.002|List3 //// Armature.004
+  - first:
+      74: -1872862165420403235
+    second: Armature.002|List4 //// Armature.004
+  - first:
+      74: -1372264050727521167
+    second: Armature.002|List5 //// Armature.004
+  - first:
+      74: -3584372337583246814
+    second: Armature.004|List1 //// Armature.004
+  - first:
+      74: -4361772475982294442
+    second: Armature.004|List2 //// Armature.004
+  - first:
+      74: -4109387020943302925
+    second: Armature.004|List3 //// Armature.004
+  - first:
+      74: -7590347413027247644
+    second: Armature.004|List4 //// Armature.004
+  - first:
+      74: 6155832547286491045
+    second: Armature.004|List5 //// Armature.004
+  - first:
+      74: -944559335234250111
+    second: Armature.001|List1 //// Armature.004
+  - first:
+      74: 5256555404379726679
+    second: Armature.001|List2 //// Armature.004
+  - first:
+      74: -7016588645325639429
+    second: Armature.001|List3 //// Armature.004
+  - first:
+      74: -8189893944007515131
+    second: Armature.001|List4 //// Armature.004
+  - first:
+      74: 6887178831610850681
+    second: Armature.001|List5 //// Armature.004
+  - first:
+      74: -8348316987823711423
+    second: Armature.006|List1 //// Armature.004
+  - first:
+      74: -1420348518729788322
+    second: Armature.006|List2 //// Armature.004
+  - first:
+      74: -1535878894442870315
+    second: Armature.006|List3 //// Armature.004
+  - first:
+      74: -1466852597055397582
+    second: Armature.006|List4 //// Armature.004
+  - first:
+      74: -1728599960827871452
+    second: Armature.006|List5 //// Armature.004
+  - first:
+      74: 4973735003818883479
+    second: Armature.003|List1 //// Armature.004
+  - first:
+      74: -8989949330160559870
+    second: Armature.003|List2 //// Armature.004
+  - first:
+      74: 8845730588099202778
+    second: Armature.003|List3 //// Armature.004
+  - first:
+      74: -7145279009010769974
+    second: Armature.003|List4 //// Armature.004
+  - first:
+      74: 5460049649518667964
+    second: Armature.003|List5 //// Armature.004
+  - first:
+      74: 4500020141032425110
+    second: Armature.002|List1 //// Armature.004
+  - first:
+      74: -6036473626182645234
+    second: Armature.002|List2 //// Armature.004
+  - first:
+      74: -3417040529489767214
+    second: Armature.002|List3 //// Armature.004
+  - first:
+      74: 8206682156486775670
+    second: Armature.002|List4 //// Armature.004
+  - first:
+      74: 3102586400145820473
+    second: Armature.002|List5 //// Armature.004
+  - first:
+      74: -2408920299655872912
+    second: Armature.004|List1 //// Armature.004
+  - first:
+      74: 6884038325337383050
+    second: Armature.004|List2 //// Armature.004
+  - first:
+      74: 2726837945779947294
+    second: Armature.004|List3 //// Armature.004
+  - first:
+      74: 694878703813504536
+    second: Armature.004|List4 //// Armature.004
+  - first:
+      74: -2360245628164231567
+    second: Armature.004|List5 //// Armature.004
+  - first:
+      74: -1901421810171176398
+    second: Armature.001|List1 //// Armature.004
+  - first:
+      74: 6116044565575237471
+    second: Armature.001|List2 //// Armature.004
+  - first:
+      74: -112246759483732775
+    second: Armature.001|List3 //// Armature.004
+  - first:
+      74: -1910502989854020881
+    second: Armature.001|List4 //// Armature.004
+  - first:
+      74: 4314728480850790434
+    second: Armature.001|List5 //// Armature.004
+  - first:
+      74: -1731631596665698135
+    second: Armature.006|List1 //// Armature.004
+  - first:
+      74: 108701560619796827
+    second: Armature.006|List2 //// Armature.004
+  - first:
+      74: 7231358814946498213
+    second: Armature.006|List3 //// Armature.004
+  - first:
+      74: 3517231094124694468
+    second: Armature.006|List4 //// Armature.004
+  - first:
+      74: -5032347424177310127
+    second: Armature.006|List5 //// Armature.004
+  - first:
+      74: -3091169113227199757
+    second: Armature.003|List1 //// Armature.004
+  - first:
+      74: 2816609806278642213
+    second: Armature.003|List2 //// Armature.004
+  - first:
+      74: -8013271644881141382
+    second: Armature.003|List3 //// Armature.004
+  - first:
+      74: 2042592315189012469
+    second: Armature.003|List4 //// Armature.004
+  - first:
+      74: 3332612526585346972
+    second: Armature.003|List5 //// Armature.004
+  - first:
+      74: 939121288664649750
+    second: Armature.002|List1 //// Armature.004
+  - first:
+      74: 3196476073954483636
+    second: Armature.002|List2 //// Armature.004
+  - first:
+      74: 8319681094486929981
+    second: Armature.002|List3 //// Armature.004
+  - first:
+      74: -2484777492109378392
+    second: Armature.002|List4 //// Armature.004
+  - first:
+      74: -7899853994229273398
+    second: Armature.002|List5 //// Armature.004
+  - first:
+      74: -7640040231829748217
+    second: Armature.004|List1 //// Armature.004
+  - first:
+      74: 3052637760296817347
+    second: Armature.004|List2 //// Armature.004
+  - first:
+      74: -93202093988376746
+    second: Armature.004|List3 //// Armature.004
+  - first:
+      74: 3255182747014035721
+    second: Armature.004|List4 //// Armature.004
+  - first:
+      74: -7488801102359255335
+    second: Armature.004|List5 //// Armature.004
+  - first:
+      74: 1427308290727628442
+    second: Armature.001|List1 //// Armature.004
+  - first:
+      74: 3629490711969053553
+    second: Armature.001|List2 //// Armature.004
+  - first:
+      74: 3676056229148076353
+    second: Armature.001|List3 //// Armature.004
+  - first:
+      74: -1847254506926341053
+    second: Armature.001|List4 //// Armature.004
+  - first:
+      74: -3212377222668776264
+    second: Armature.001|List5 //// Armature.004
+  - first:
+      74: 5357823774312970024
+    second: Armature.006|List1 //// Armature.004
+  - first:
+      74: 5837775765088077404
+    second: Armature.006|List2 //// Armature.004
+  - first:
+      74: -2664014695703186029
+    second: Armature.006|List3 //// Armature.004
+  - first:
+      74: -7865943944972226068
+    second: Armature.006|List4 //// Armature.004
+  - first:
+      74: -8815097221399969562
+    second: Armature.006|List5 //// Armature.004
+  - first:
+      74: -3235152845094012415
+    second: Armature.003|List1 //// Armature.004
+  - first:
+      74: 4914624849134578162
+    second: Armature.003|List2 //// Armature.004
+  - first:
+      74: -8247547476682553028
+    second: Armature.003|List3 //// Armature.004
+  - first:
+      74: -7302236136978035514
+    second: Armature.003|List4 //// Armature.004
+  - first:
+      74: 6065870514029065298
+    second: Armature.003|List5 //// Armature.004
+  - first:
+      74: 62964230000996534
+    second: Armature.002|List1 //// Armature.004
+  - first:
+      74: 1234980512753743065
+    second: Armature.002|List2 //// Armature.004
+  - first:
+      74: -5748803282100234121
+    second: Armature.002|List3 //// Armature.004
+  - first:
+      74: 4886380954756266359
+    second: Armature.002|List4 //// Armature.004
+  - first:
+      74: 4469210017504243607
+    second: Armature.002|List5 //// Armature.004
+  - first:
+      74: 213066712398219357
+    second: Armature.004|List1 //// Armature.004
+  - first:
+      74: 2028487043982949371
+    second: Armature.004|List2 //// Armature.004
+  - first:
+      74: -6844623485986588344
+    second: Armature.004|List3 //// Armature.004
+  - first:
+      74: 7015401257360742013
+    second: Armature.004|List4 //// Armature.004
+  - first:
+      74: 7401258960691046042
+    second: Armature.004|List5 //// Armature.004
+  - first:
+      74: -7244240137960686786
+    second: Armature.001|List1 //// Armature.004
+  - first:
+      74: 7198619753221264746
+    second: Armature.001|List2 //// Armature.004
+  - first:
+      74: -8037834428849728574
+    second: Armature.001|List3 //// Armature.004
+  - first:
+      74: -3312175110828673631
+    second: Armature.001|List4 //// Armature.004
+  - first:
+      74: -4778052619196041373
+    second: Armature.001|List5 //// Armature.004
+  - first:
+      74: -3357763422563244806
+    second: Armature.006|List1 //// Armature.004
+  - first:
+      74: -763948896209610144
+    second: Armature.006|List2 //// Armature.004
+  - first:
+      74: -8524763880124297206
+    second: Armature.006|List3 //// Armature.004
+  - first:
+      74: -3813546377681199795
+    second: Armature.006|List4 //// Armature.004
+  - first:
+      74: 7654591206913024226
+    second: Armature.006|List5 //// Armature.004
+  - first:
+      74: -1756299463840570124
+    second: Armature.003|List1 //// Armature.004
+  - first:
+      74: -3852991466582880825
+    second: Armature.003|List2 //// Armature.004
+  - first:
+      74: -5280448621928015098
+    second: Armature.003|List3 //// Armature.004
+  - first:
+      74: -4607428675002019107
+    second: Armature.003|List4 //// Armature.004
+  - first:
+      74: 7940132171719288051
+    second: Armature.003|List5 //// Armature.004
+  - first:
+      74: 4599202867365284100
+    second: Armature.002|List1 //// Armature.001
+  - first:
+      74: -4117318881838255664
+    second: Armature.002|List2 //// Armature.001
+  - first:
+      74: -6233000351509734937
+    second: Armature.002|List3 //// Armature.001
+  - first:
+      74: -1282994070818897331
+    second: Armature.002|List4 //// Armature.001
+  - first:
+      74: 1482787186045226701
+    second: Armature.002|List5 //// Armature.001
+  - first:
+      74: 6633498012486375328
+    second: Armature.004|List1 //// Armature.001
+  - first:
+      74: -488198833941723348
+    second: Armature.004|List2 //// Armature.001
+  - first:
+      74: 3100955730866957590
+    second: Armature.004|List3 //// Armature.001
+  - first:
+      74: 2349149226543730691
+    second: Armature.004|List4 //// Armature.001
+  - first:
+      74: 2832954871719903633
+    second: Armature.004|List5 //// Armature.001
+  - first:
+      74: -8617413972961113282
+    second: Armature.001|List1 //// Armature.001
+  - first:
+      74: -5821190187628044694
+    second: Armature.001|List2 //// Armature.001
+  - first:
+      74: -918419774223300033
+    second: Armature.001|List3 //// Armature.001
+  - first:
+      74: 1205487427705948130
+    second: Armature.001|List4 //// Armature.001
+  - first:
+      74: 3042527790979336598
+    second: Armature.001|List5 //// Armature.001
+  - first:
+      74: 5503533508948958811
+    second: Armature.006|List1 //// Armature.001
+  - first:
+      74: -555718721328794576
+    second: Armature.006|List2 //// Armature.001
+  - first:
+      74: -4456949189158217836
+    second: Armature.006|List3 //// Armature.001
+  - first:
+      74: 9061663695488519451
+    second: Armature.006|List4 //// Armature.001
+  - first:
+      74: 6732705635730272959
+    second: Armature.006|List5 //// Armature.001
+  - first:
+      74: 6379828625040586381
+    second: Armature.003|List1 //// Armature.001
+  - first:
+      74: -5549206741372842975
+    second: Armature.003|List2 //// Armature.001
+  - first:
+      74: -6848817582808355823
+    second: Armature.003|List3 //// Armature.001
+  - first:
+      74: -5133008904558984501
+    second: Armature.003|List4 //// Armature.001
+  - first:
+      74: -8306996912754626392
+    second: Armature.003|List5 //// Armature.001
+  - first:
+      74: 4673801480841291507
+    second: Armature.002|List1 //// Armature.001
+  - first:
+      74: -670871793597038622
+    second: Armature.002|List2 //// Armature.001
+  - first:
+      74: 5973130104973586165
+    second: Armature.002|List3 //// Armature.001
+  - first:
+      74: -4227049814078047127
+    second: Armature.002|List4 //// Armature.001
+  - first:
+      74: -2653296914990398319
+    second: Armature.002|List5 //// Armature.001
+  - first:
+      74: -8005703980884021252
+    second: Armature.004|List1 //// Armature.001
+  - first:
+      74: -6062454228367732226
+    second: Armature.004|List2 //// Armature.001
+  - first:
+      74: 7706651695865122676
+    second: Armature.004|List3 //// Armature.001
+  - first:
+      74: -2579216168988550057
+    second: Armature.004|List4 //// Armature.001
+  - first:
+      74: 1137649648414040528
+    second: Armature.004|List5 //// Armature.001
+  - first:
+      74: 2014897426207087445
+    second: Armature.001|List1 //// Armature.001
+  - first:
+      74: 5213042851161090354
+    second: Armature.001|List2 //// Armature.001
+  - first:
+      74: -7525731256500773218
+    second: Armature.001|List3 //// Armature.001
+  - first:
+      74: -2103568908638014039
+    second: Armature.001|List4 //// Armature.001
+  - first:
+      74: -2790424196411798925
+    second: Armature.001|List5 //// Armature.001
+  - first:
+      74: -3427120200408401211
+    second: Armature.006|List1 //// Armature.001
+  - first:
+      74: -4587416432881302068
+    second: Armature.006|List2 //// Armature.001
+  - first:
+      74: 6722276396301490380
+    second: Armature.006|List3 //// Armature.001
+  - first:
+      74: -3772705916332273171
+    second: Armature.006|List4 //// Armature.001
+  - first:
+      74: 1920051936835574180
+    second: Armature.006|List5 //// Armature.001
+  - first:
+      74: -3385316497626845004
+    second: Armature.003|List1 //// Armature.001
+  - first:
+      74: -2123385704635276191
+    second: Armature.003|List2 //// Armature.001
+  - first:
+      74: 7004988400747326787
+    second: Armature.003|List3 //// Armature.001
+  - first:
+      74: -3796079011873910150
+    second: Armature.003|List4 //// Armature.001
+  - first:
+      74: 4556949579329489230
+    second: Armature.003|List5 //// Armature.001
+  - first:
+      74: 5296731644157312374
+    second: Armature.002|List1 //// Armature.001
+  - first:
+      74: -1622302554213255239
+    second: Armature.002|List2 //// Armature.001
+  - first:
+      74: 6088765791624752654
+    second: Armature.002|List3 //// Armature.001
+  - first:
+      74: -2204190583693807694
+    second: Armature.002|List4 //// Armature.001
+  - first:
+      74: 1236618747089434989
+    second: Armature.002|List5 //// Armature.001
+  - first:
+      74: 8278685822279901536
+    second: Armature.004|List1 //// Armature.001
+  - first:
+      74: -5231425689946337830
+    second: Armature.004|List2 //// Armature.001
+  - first:
+      74: -6220646848516315795
+    second: Armature.004|List3 //// Armature.001
+  - first:
+      74: -1907854726799610941
+    second: Armature.004|List4 //// Armature.001
+  - first:
+      74: 2991359874346096916
+    second: Armature.004|List5 //// Armature.001
+  - first:
+      74: -6527344850849456869
+    second: Armature.001|List1 //// Armature.001
+  - first:
+      74: -620889531954534136
+    second: Armature.001|List2 //// Armature.001
+  - first:
+      74: 4813956641158748321
+    second: Armature.001|List3 //// Armature.001
+  - first:
+      74: 6127668161403472279
+    second: Armature.001|List4 //// Armature.001
+  - first:
+      74: 661456776507106738
+    second: Armature.001|List5 //// Armature.001
+  - first:
+      74: 5230593697512245865
+    second: Armature.006|List1 //// Armature.001
+  - first:
+      74: 2992650996369454721
+    second: Armature.006|List2 //// Armature.001
+  - first:
+      74: -4308039424101800867
+    second: Armature.006|List3 //// Armature.001
+  - first:
+      74: 5522876897505541776
+    second: Armature.006|List4 //// Armature.001
+  - first:
+      74: -7588166270347546299
+    second: Armature.006|List5 //// Armature.001
+  - first:
+      74: 1812346641089575324
+    second: Armature.003|List1 //// Armature.001
+  - first:
+      74: 851537522377982879
+    second: Armature.003|List2 //// Armature.001
+  - first:
+      74: -9160267579144548157
+    second: Armature.003|List3 //// Armature.001
+  - first:
+      74: 4583679494756539057
+    second: Armature.003|List4 //// Armature.001
+  - first:
+      74: 7175007066517544760
+    second: Armature.003|List5 //// Armature.001
+  - first:
+      74: -293606042973414567
+    second: Armature.002|List1 //// Armature.001
+  - first:
+      74: 3369864108272373248
+    second: Armature.002|List2 //// Armature.001
+  - first:
+      74: 3643349628441288545
+    second: Armature.002|List3 //// Armature.001
+  - first:
+      74: 277426683932448543
+    second: Armature.002|List4 //// Armature.001
+  - first:
+      74: 5407316088071311007
+    second: Armature.002|List5 //// Armature.001
+  - first:
+      74: -2161968400093135784
+    second: Armature.004|List1 //// Armature.001
+  - first:
+      74: 5068144848542084982
+    second: Armature.004|List2 //// Armature.001
+  - first:
+      74: 8423449063301517941
+    second: Armature.004|List3 //// Armature.001
+  - first:
+      74: 3102280043524031479
+    second: Armature.004|List4 //// Armature.001
+  - first:
+      74: 3059150707880518331
+    second: Armature.004|List5 //// Armature.001
+  - first:
+      74: -1510379568951661382
+    second: Armature.001|List1 //// Armature.001
+  - first:
+      74: -1968865635876141928
+    second: Armature.001|List2 //// Armature.001
+  - first:
+      74: -909621541781324531
+    second: Armature.001|List3 //// Armature.001
+  - first:
+      74: 907433542649270632
+    second: Armature.001|List4 //// Armature.001
+  - first:
+      74: 1505442772488478734
+    second: Armature.001|List5 //// Armature.001
+  - first:
+      74: 5841302932925849827
+    second: Armature.006|List1 //// Armature.001
+  - first:
+      74: 283300890010646053
+    second: Armature.006|List2 //// Armature.001
+  - first:
+      74: 6548442282981819946
+    second: Armature.006|List3 //// Armature.001
+  - first:
+      74: 2058057344016634288
+    second: Armature.006|List4 //// Armature.001
+  - first:
+      74: 2916706497989985031
+    second: Armature.006|List5 //// Armature.001
+  - first:
+      74: 4625882830693249039
+    second: Armature.003|List1 //// Armature.001
+  - first:
+      74: -5930121724835333219
+    second: Armature.003|List2 //// Armature.001
+  - first:
+      74: 3573044471360665203
+    second: Armature.003|List3 //// Armature.001
+  - first:
+      74: 1648532754070401464
+    second: Armature.003|List4 //// Armature.001
+  - first:
+      74: 2545103736611296387
+    second: Armature.003|List5 //// Armature.001
+  - first:
+      74: -1802926055947838359
+    second: Armature.002|List1 //// Armature.001
+  - first:
+      74: 6910877365057924090
+    second: Armature.002|List2 //// Armature.001
+  - first:
+      74: -4592167939733426654
+    second: Armature.002|List3 //// Armature.001
+  - first:
+      74: -4966654108872478984
+    second: Armature.002|List4 //// Armature.001
+  - first:
+      74: -1491788218328300327
+    second: Armature.002|List5 //// Armature.001
+  - first:
+      74: 2721818627408942494
+    second: Armature.004|List1 //// Armature.001
+  - first:
+      74: -991517652417116356
+    second: Armature.004|List2 //// Armature.001
+  - first:
+      74: -6937161823845260752
+    second: Armature.004|List3 //// Armature.001
+  - first:
+      74: -3241102152016823222
+    second: Armature.004|List4 //// Armature.001
+  - first:
+      74: -6441710547734069981
+    second: Armature.004|List5 //// Armature.001
+  - first:
+      74: -5825855629741172385
+    second: Armature.001|List1 //// Armature.001
+  - first:
+      74: 3935349377619353953
+    second: Armature.001|List2 //// Armature.001
+  - first:
+      74: 7281523993286274359
+    second: Armature.001|List3 //// Armature.001
+  - first:
+      74: 4529360914701634523
+    second: Armature.001|List4 //// Armature.001
+  - first:
+      74: 6877363580461373093
+    second: Armature.001|List5 //// Armature.001
+  - first:
+      74: -705049925127310421
+    second: Armature.006|List1 //// Armature.001
+  - first:
+      74: 7237071165861412060
+    second: Armature.006|List2 //// Armature.001
+  - first:
+      74: -2118288400999209246
+    second: Armature.006|List3 //// Armature.001
+  - first:
+      74: 7291699364206213079
+    second: Armature.006|List4 //// Armature.001
+  - first:
+      74: 2335450452806845385
+    second: Armature.006|List5 //// Armature.001
+  - first:
+      74: -334248595277881560
+    second: Armature.003|List1 //// Armature.001
+  - first:
+      74: -999294754012832279
+    second: Armature.003|List2 //// Armature.001
+  - first:
+      74: 5891135990251992979
+    second: Armature.003|List3 //// Armature.001
+  - first:
+      74: 3029995256240909379
+    second: Armature.003|List4 //// Armature.001
+  - first:
+      74: 7127690781281285674
+    second: Armature.003|List5 //// Armature.001
+  - first:
+      74: -6235761148614771805
+    second: Armature.002|List1 //// Armature.006
+  - first:
+      74: 5165713650909611006
+    second: Armature.002|List2 //// Armature.006
+  - first:
+      74: -3531036706662021155
+    second: Armature.002|List3 //// Armature.006
+  - first:
+      74: 1832063305217779782
+    second: Armature.002|List4 //// Armature.006
+  - first:
+      74: 2635183083758018716
+    second: Armature.002|List5 //// Armature.006
+  - first:
+      74: -6462720515953886932
+    second: Armature.004|List1 //// Armature.006
+  - first:
+      74: 6718334617300980330
+    second: Armature.004|List2 //// Armature.006
+  - first:
+      74: 740479491633844117
+    second: Armature.004|List3 //// Armature.006
+  - first:
+      74: -7627778931607650312
+    second: Armature.004|List4 //// Armature.006
+  - first:
+      74: 5792450827839377158
+    second: Armature.004|List5 //// Armature.006
+  - first:
+      74: 3153570001644388575
+    second: Armature.001|List1 //// Armature.006
+  - first:
+      74: 4390316299433471338
+    second: Armature.001|List2 //// Armature.006
+  - first:
+      74: 1719444514103508998
+    second: Armature.001|List3 //// Armature.006
+  - first:
+      74: -7039221273950254981
+    second: Armature.001|List4 //// Armature.006
+  - first:
+      74: -5490891382578632053
+    second: Armature.001|List5 //// Armature.006
+  - first:
+      74: 7289874980050491226
+    second: Armature.006|List1 //// Armature.006
+  - first:
+      74: -3127026720034155361
+    second: Armature.006|List2 //// Armature.006
+  - first:
+      74: -2385097683147743104
+    second: Armature.006|List3 //// Armature.006
+  - first:
+      74: 2668659598318802203
+    second: Armature.006|List4 //// Armature.006
+  - first:
+      74: 6525517040704650668
+    second: Armature.006|List5 //// Armature.006
+  - first:
+      74: -3105836656302780481
+    second: Armature.003|List1 //// Armature.006
+  - first:
+      74: 7037104895047909412
+    second: Armature.003|List2 //// Armature.006
+  - first:
+      74: -1924246344416590006
+    second: Armature.003|List3 //// Armature.006
+  - first:
+      74: 1162091324775346929
+    second: Armature.003|List4 //// Armature.006
+  - first:
+      74: 1960132203331237931
+    second: Armature.003|List5 //// Armature.006
+  - first:
+      74: 4296404209735601460
+    second: Armature.002|List1 //// Armature.006
+  - first:
+      74: 3400253843186280216
+    second: Armature.002|List2 //// Armature.006
+  - first:
+      74: 7556550574877193753
+    second: Armature.002|List3 //// Armature.006
+  - first:
+      74: 2466551410078568771
+    second: Armature.002|List4 //// Armature.006
+  - first:
+      74: -3951042874050960289
+    second: Armature.002|List5 //// Armature.006
+  - first:
+      74: -5580463515923176111
+    second: Armature.004|List1 //// Armature.006
+  - first:
+      74: 1085253541332659642
+    second: Armature.004|List2 //// Armature.006
+  - first:
+      74: 4307622770682471148
+    second: Armature.004|List3 //// Armature.006
+  - first:
+      74: 3699058906119394334
+    second: Armature.004|List4 //// Armature.006
+  - first:
+      74: -1638210905782722260
+    second: Armature.004|List5 //// Armature.006
+  - first:
+      74: -8176195323648148949
+    second: Armature.001|List1 //// Armature.006
+  - first:
+      74: 2710983651049684127
+    second: Armature.001|List2 //// Armature.006
+  - first:
+      74: -8875433642162022037
+    second: Armature.001|List3 //// Armature.006
+  - first:
+      74: -687234867768173280
+    second: Armature.001|List4 //// Armature.006
+  - first:
+      74: 4907165980998145452
+    second: Armature.001|List5 //// Armature.006
+  - first:
+      74: 8436910318472791678
+    second: Armature.006|List1 //// Armature.006
+  - first:
+      74: 510853545312048336
+    second: Armature.006|List2 //// Armature.006
+  - first:
+      74: -1557884021558344179
+    second: Armature.006|List3 //// Armature.006
+  - first:
+      74: 431249673184424697
+    second: Armature.006|List4 //// Armature.006
+  - first:
+      74: 4499299352794371830
+    second: Armature.006|List5 //// Armature.006
+  - first:
+      74: 678286242937061331
+    second: Armature.003|List1 //// Armature.006
+  - first:
+      74: 6453973861735810179
+    second: Armature.003|List2 //// Armature.006
+  - first:
+      74: -5064591088752273306
+    second: Armature.003|List3 //// Armature.006
+  - first:
+      74: -2956393882259922278
+    second: Armature.003|List4 //// Armature.006
+  - first:
+      74: -8899238306692986893
+    second: Armature.003|List5 //// Armature.006
+  - first:
+      74: -5175021850340787775
+    second: Armature.002|List1 //// Armature.006
+  - first:
+      74: -1214067461092658154
+    second: Armature.002|List2 //// Armature.006
+  - first:
+      74: -5479711541695699226
+    second: Armature.002|List3 //// Armature.006
+  - first:
+      74: 7116251520377520873
+    second: Armature.002|List4 //// Armature.006
+  - first:
+      74: -8419398415592913202
+    second: Armature.002|List5 //// Armature.006
+  - first:
+      74: -8053952761773729428
+    second: Armature.004|List1 //// Armature.006
+  - first:
+      74: 8854230767809762968
+    second: Armature.004|List2 //// Armature.006
+  - first:
+      74: -1991921652547578450
+    second: Armature.004|List3 //// Armature.006
+  - first:
+      74: -3343402455937535371
+    second: Armature.004|List4 //// Armature.006
+  - first:
+      74: -5078747638234973438
+    second: Armature.004|List5 //// Armature.006
+  - first:
+      74: 90127222031859412
+    second: Armature.001|List1 //// Armature.006
+  - first:
+      74: 6213686911659194160
+    second: Armature.001|List2 //// Armature.006
+  - first:
+      74: -7260137929048972384
+    second: Armature.001|List3 //// Armature.006
+  - first:
+      74: -5748787777412829089
+    second: Armature.001|List4 //// Armature.006
+  - first:
+      74: 1654527420978881472
+    second: Armature.001|List5 //// Armature.006
+  - first:
+      74: 8961264372675394936
+    second: Armature.006|List1 //// Armature.006
+  - first:
+      74: -3329653001036721794
+    second: Armature.006|List2 //// Armature.006
+  - first:
+      74: -3529532724041349879
+    second: Armature.006|List3 //// Armature.006
+  - first:
+      74: 5214134431337592469
+    second: Armature.006|List4 //// Armature.006
+  - first:
+      74: 7059153503936730731
+    second: Armature.006|List5 //// Armature.006
+  - first:
+      74: -936720532423944622
+    second: Armature.003|List1 //// Armature.006
+  - first:
+      74: 7913847939564818043
+    second: Armature.003|List2 //// Armature.006
+  - first:
+      74: -781665197161379598
+    second: Armature.003|List3 //// Armature.006
+  - first:
+      74: 7259429274047492187
+    second: Armature.003|List4 //// Armature.006
+  - first:
+      74: 333563591327353282
+    second: Armature.003|List5 //// Armature.006
+  - first:
+      74: -5454334831643781223
+    second: Armature.002|List1 //// Armature.006
+  - first:
+      74: 2208549396105210302
+    second: Armature.002|List2 //// Armature.006
+  - first:
+      74: 5885306167401202188
+    second: Armature.002|List3 //// Armature.006
+  - first:
+      74: -2519421126542602315
+    second: Armature.002|List4 //// Armature.006
+  - first:
+      74: -3338446878520025651
+    second: Armature.002|List5 //// Armature.006
+  - first:
+      74: 7442636726964095133
+    second: Armature.004|List1 //// Armature.006
+  - first:
+      74: 2234620737090186262
+    second: Armature.004|List2 //// Armature.006
+  - first:
+      74: 5883317314288001489
+    second: Armature.004|List3 //// Armature.006
+  - first:
+      74: 5467300382692691948
+    second: Armature.004|List4 //// Armature.006
+  - first:
+      74: 1254886075234591751
+    second: Armature.004|List5 //// Armature.006
+  - first:
+      74: -4643671111158328733
+    second: Armature.001|List1 //// Armature.006
+  - first:
+      74: 2238891448965506695
+    second: Armature.001|List2 //// Armature.006
+  - first:
+      74: 6386370454337827216
+    second: Armature.001|List3 //// Armature.006
+  - first:
+      74: -6081903286921439790
+    second: Armature.001|List4 //// Armature.006
+  - first:
+      74: -7284522040572727565
+    second: Armature.001|List5 //// Armature.006
+  - first:
+      74: 9193447370611928493
+    second: Armature.006|List1 //// Armature.006
+  - first:
+      74: 142091252168105304
+    second: Armature.006|List2 //// Armature.006
+  - first:
+      74: 2057783870854852758
+    second: Armature.006|List3 //// Armature.006
+  - first:
+      74: 4396503826520404496
+    second: Armature.006|List4 //// Armature.006
+  - first:
+      74: -1616952904789415061
+    second: Armature.006|List5 //// Armature.006
+  - first:
+      74: -4189769745233815517
+    second: Armature.003|List1 //// Armature.006
+  - first:
+      74: 4296475507444397456
+    second: Armature.003|List2 //// Armature.006
+  - first:
+      74: 2552931353421281982
+    second: Armature.003|List3 //// Armature.006
+  - first:
+      74: 7952778321175827900
+    second: Armature.003|List4 //// Armature.006
+  - first:
+      74: -5327877427777085485
+    second: Armature.003|List5 //// Armature.006
+  - first:
+      74: 6592823554419869367
+    second: Armature.002|List1 //// Armature.006
+  - first:
+      74: -1209016302438521474
+    second: Armature.002|List2 //// Armature.006
+  - first:
+      74: 991755468128267111
+    second: Armature.002|List3 //// Armature.006
+  - first:
+      74: -9176556155069857847
+    second: Armature.002|List4 //// Armature.006
+  - first:
+      74: 4227162611211861989
+    second: Armature.002|List5 //// Armature.006
+  - first:
+      74: 4154346457288153235
+    second: Armature.004|List1 //// Armature.006
+  - first:
+      74: 3718212255380779608
+    second: Armature.004|List2 //// Armature.006
+  - first:
+      74: -2274780451198929505
+    second: Armature.004|List3 //// Armature.006
+  - first:
+      74: -5271393661270962921
+    second: Armature.004|List4 //// Armature.006
+  - first:
+      74: 5338689989907416268
+    second: Armature.004|List5 //// Armature.006
+  - first:
+      74: 9175109050967556688
+    second: Armature.001|List1 //// Armature.006
+  - first:
+      74: 5803135367317012621
+    second: Armature.001|List2 //// Armature.006
+  - first:
+      74: -1481921094068546155
+    second: Armature.001|List3 //// Armature.006
+  - first:
+      74: 1338591312747871931
+    second: Armature.001|List4 //// Armature.006
+  - first:
+      74: -6956437927619521901
+    second: Armature.001|List5 //// Armature.006
+  - first:
+      74: 3948895536265812969
+    second: Armature.006|List1 //// Armature.006
+  - first:
+      74: -289554968685140490
+    second: Armature.006|List2 //// Armature.006
+  - first:
+      74: 2428165371168203928
+    second: Armature.006|List3 //// Armature.006
+  - first:
+      74: -3794713468433559661
+    second: Armature.006|List4 //// Armature.006
+  - first:
+      74: 5751889602230557946
+    second: Armature.006|List5 //// Armature.006
+  - first:
+      74: 5446433746898503935
+    second: Armature.003|List1 //// Armature.006
+  - first:
+      74: -5827663487517387579
+    second: Armature.003|List2 //// Armature.006
+  - first:
+      74: 7046070522598861323
+    second: Armature.003|List3 //// Armature.006
+  - first:
+      74: 1449933862544707899
+    second: Armature.003|List4 //// Armature.006
+  - first:
+      74: -4092156038392562708
+    second: Armature.003|List5 //// Armature.006
+  - first:
+      74: 8047396335299753568
+    second: Armature.002|List1 //// Armature.003
+  - first:
+      74: -7915566264928907280
+    second: Armature.002|List2 //// Armature.003
+  - first:
+      74: -7019940248081955979
+    second: Armature.002|List3 //// Armature.003
+  - first:
+      74: 8019374515852423392
+    second: Armature.002|List4 //// Armature.003
+  - first:
+      74: -6596331181603268762
+    second: Armature.002|List5 //// Armature.003
+  - first:
+      74: -541326765532226997
+    second: Armature.004|List1 //// Armature.003
+  - first:
+      74: 4079234887758190182
+    second: Armature.004|List2 //// Armature.003
+  - first:
+      74: 5829436972434248435
+    second: Armature.004|List3 //// Armature.003
+  - first:
+      74: -6726038001905978507
+    second: Armature.004|List4 //// Armature.003
+  - first:
+      74: 4263266185401737959
+    second: Armature.004|List5 //// Armature.003
+  - first:
+      74: -7969412750918688845
+    second: Armature.001|List1 //// Armature.003
+  - first:
+      74: 8669712993078058421
+    second: Armature.001|List2 //// Armature.003
+  - first:
+      74: 876094908264464090
+    second: Armature.001|List3 //// Armature.003
+  - first:
+      74: 4019642785582456073
+    second: Armature.001|List4 //// Armature.003
+  - first:
+      74: -8563016778242835098
+    second: Armature.001|List5 //// Armature.003
+  - first:
+      74: -3452427621847505909
+    second: Armature.006|List1 //// Armature.003
+  - first:
+      74: 2323931619774893458
+    second: Armature.006|List2 //// Armature.003
+  - first:
+      74: 7813830838306382474
+    second: Armature.006|List3 //// Armature.003
+  - first:
+      74: 787940957680607243
+    second: Armature.006|List4 //// Armature.003
+  - first:
+      74: -2538423797992943776
+    second: Armature.006|List5 //// Armature.003
+  - first:
+      74: -7090196393465171523
+    second: Armature.003|List1 //// Armature.003
+  - first:
+      74: -5088227392327302840
+    second: Armature.003|List2 //// Armature.003
+  - first:
+      74: 7398161407085716245
+    second: Armature.003|List3 //// Armature.003
+  - first:
+      74: -4080481064924926550
+    second: Armature.003|List4 //// Armature.003
+  - first:
+      74: 8405736230004491074
+    second: Armature.003|List5 //// Armature.003
+  - first:
+      74: 7878173821825550
+    second: Armature.002|List1 //// Armature.003
+  - first:
+      74: 3040558257333378365
+    second: Armature.002|List2 //// Armature.003
+  - first:
+      74: -3142398604195160498
+    second: Armature.002|List3 //// Armature.003
+  - first:
+      74: 286774202256990616
+    second: Armature.002|List4 //// Armature.003
+  - first:
+      74: -7640306254005036571
+    second: Armature.002|List5 //// Armature.003
+  - first:
+      74: 8266892921550644770
+    second: Armature.004|List1 //// Armature.003
+  - first:
+      74: -2683823329074812662
+    second: Armature.004|List2 //// Armature.003
+  - first:
+      74: -4947771424230632462
+    second: Armature.004|List3 //// Armature.003
+  - first:
+      74: -5214465476876096556
+    second: Armature.004|List4 //// Armature.003
+  - first:
+      74: -1593716054219964880
+    second: Armature.004|List5 //// Armature.003
+  - first:
+      74: 630790467149646858
+    second: Armature.001|List1 //// Armature.003
+  - first:
+      74: -3271185602470615831
+    second: Armature.001|List2 //// Armature.003
+  - first:
+      74: 4172677594074094958
+    second: Armature.001|List3 //// Armature.003
+  - first:
+      74: -7822910135060436734
+    second: Armature.001|List4 //// Armature.003
+  - first:
+      74: -7800362002853809001
+    second: Armature.001|List5 //// Armature.003
+  - first:
+      74: -4357598393249917361
+    second: Armature.006|List1 //// Armature.003
+  - first:
+      74: -3443597814078349540
+    second: Armature.006|List2 //// Armature.003
+  - first:
+      74: -4074699155371009972
+    second: Armature.006|List3 //// Armature.003
+  - first:
+      74: -8417789186949693722
+    second: Armature.006|List4 //// Armature.003
+  - first:
+      74: 4825522965259174031
+    second: Armature.006|List5 //// Armature.003
+  - first:
+      74: 3601803496888243246
+    second: Armature.003|List1 //// Armature.003
+  - first:
+      74: 6454155237384342810
+    second: Armature.003|List2 //// Armature.003
+  - first:
+      74: 4516637812742080452
+    second: Armature.003|List3 //// Armature.003
+  - first:
+      74: 2127752913470967100
+    second: Armature.003|List4 //// Armature.003
+  - first:
+      74: -8510985399994515611
+    second: Armature.003|List5 //// Armature.003
+  - first:
+      74: 5334534896567980016
+    second: Armature.002|List1 //// Armature.003
+  - first:
+      74: -579649303336363380
+    second: Armature.002|List2 //// Armature.003
+  - first:
+      74: 846123188724841257
+    second: Armature.002|List3 //// Armature.003
+  - first:
+      74: 7268248267150431963
+    second: Armature.002|List4 //// Armature.003
+  - first:
+      74: 3261603955256131925
+    second: Armature.002|List5 //// Armature.003
+  - first:
+      74: -8310181898892692338
+    second: Armature.004|List1 //// Armature.003
+  - first:
+      74: 1987760561933764361
+    second: Armature.004|List2 //// Armature.003
+  - first:
+      74: -930331056323252145
+    second: Armature.004|List3 //// Armature.003
+  - first:
+      74: 3613866739628096864
+    second: Armature.004|List4 //// Armature.003
+  - first:
+      74: -8509583366581956451
+    second: Armature.004|List5 //// Armature.003
+  - first:
+      74: 3620801066439762824
+    second: Armature.001|List1 //// Armature.003
+  - first:
+      74: -7659962161446382828
+    second: Armature.001|List2 //// Armature.003
+  - first:
+      74: -7404259540097888917
+    second: Armature.001|List3 //// Armature.003
+  - first:
+      74: -2353594056358877496
+    second: Armature.001|List4 //// Armature.003
+  - first:
+      74: 1371445931305371964
+    second: Armature.001|List5 //// Armature.003
+  - first:
+      74: -4458638038909858810
+    second: Armature.006|List1 //// Armature.003
+  - first:
+      74: -8875914081743462615
+    second: Armature.006|List2 //// Armature.003
+  - first:
+      74: -8636068148991238782
+    second: Armature.006|List3 //// Armature.003
+  - first:
+      74: -5533435792397406205
+    second: Armature.006|List4 //// Armature.003
+  - first:
+      74: 1649795623996949538
+    second: Armature.006|List5 //// Armature.003
+  - first:
+      74: -1233104674387781040
+    second: Armature.003|List1 //// Armature.003
+  - first:
+      74: 9114880553361979011
+    second: Armature.003|List2 //// Armature.003
+  - first:
+      74: -7877719112016571651
+    second: Armature.003|List3 //// Armature.003
+  - first:
+      74: 2752372450334899481
+    second: Armature.003|List4 //// Armature.003
+  - first:
+      74: 7341963561602876659
+    second: Armature.003|List5 //// Armature.003
+  - first:
+      74: 372182714196654268
+    second: Armature.002|List1 //// Armature.003
+  - first:
+      74: -6044146971834758692
+    second: Armature.002|List2 //// Armature.003
+  - first:
+      74: -5618172172246781114
+    second: Armature.002|List3 //// Armature.003
+  - first:
+      74: -1732403622801457181
+    second: Armature.002|List4 //// Armature.003
+  - first:
+      74: -4187830279073756434
+    second: Armature.002|List5 //// Armature.003
+  - first:
+      74: 6810201964933402723
+    second: Armature.004|List1 //// Armature.003
+  - first:
+      74: -4244282860005252551
+    second: Armature.004|List2 //// Armature.003
+  - first:
+      74: -8499990192995384167
+    second: Armature.004|List3 //// Armature.003
+  - first:
+      74: -5916373188733420408
+    second: Armature.004|List4 //// Armature.003
+  - first:
+      74: -7387169117323007429
+    second: Armature.004|List5 //// Armature.003
+  - first:
+      74: 7455792748483275157
+    second: Armature.001|List1 //// Armature.003
+  - first:
+      74: -5022289148657653302
+    second: Armature.001|List2 //// Armature.003
+  - first:
+      74: 4291845635713126384
+    second: Armature.001|List3 //// Armature.003
+  - first:
+      74: -6065289695422688544
+    second: Armature.001|List4 //// Armature.003
+  - first:
+      74: -6608237544314486486
+    second: Armature.001|List5 //// Armature.003
+  - first:
+      74: 1270714714186646132
+    second: Armature.006|List1 //// Armature.003
+  - first:
+      74: -8253249555271732715
+    second: Armature.006|List2 //// Armature.003
+  - first:
+      74: -4653973486296260106
+    second: Armature.006|List3 //// Armature.003
+  - first:
+      74: 3592701974827146925
+    second: Armature.006|List4 //// Armature.003
+  - first:
+      74: -1993095843115365060
+    second: Armature.006|List5 //// Armature.003
+  - first:
+      74: 3202188107236859040
+    second: Armature.003|List1 //// Armature.003
+  - first:
+      74: 7049558732879221956
+    second: Armature.003|List2 //// Armature.003
+  - first:
+      74: 2507773673467560945
+    second: Armature.003|List3 //// Armature.003
+  - first:
+      74: 62878574773681775
+    second: Armature.003|List4 //// Armature.003
+  - first:
+      74: -6052348690096348664
+    second: Armature.003|List5 //// Armature.003
+  - first:
+      74: 2605142604054362043
+    second: Armature.002|List1 //// Armature.003
+  - first:
+      74: -4970885415248662432
+    second: Armature.002|List2 //// Armature.003
+  - first:
+      74: -5080548318720058453
+    second: Armature.002|List3 //// Armature.003
+  - first:
+      74: 6227511550166622034
+    second: Armature.002|List4 //// Armature.003
+  - first:
+      74: -7331783657426590436
+    second: Armature.002|List5 //// Armature.003
+  - first:
+      74: -1867142454886569970
+    second: Armature.004|List1 //// Armature.003
+  - first:
+      74: -1250617412301945528
+    second: Armature.004|List2 //// Armature.003
+  - first:
+      74: -5593476794104633911
+    second: Armature.004|List3 //// Armature.003
+  - first:
+      74: 9039603218017163153
+    second: Armature.004|List4 //// Armature.003
+  - first:
+      74: 4135319076768193640
+    second: Armature.004|List5 //// Armature.003
+  - first:
+      74: -2233385485512777173
+    second: Armature.001|List1 //// Armature.003
+  - first:
+      74: -8890832134850322928
+    second: Armature.001|List2 //// Armature.003
+  - first:
+      74: 8259373670873245194
+    second: Armature.001|List3 //// Armature.003
+  - first:
+      74: 2193025156814035104
+    second: Armature.001|List4 //// Armature.003
+  - first:
+      74: -5218698429995162070
+    second: Armature.001|List5 //// Armature.003
+  - first:
+      74: -2673067007614951513
+    second: Armature.006|List1 //// Armature.003
+  - first:
+      74: -7501119533414365912
+    second: Armature.006|List2 //// Armature.003
+  - first:
+      74: 3829505989740121310
+    second: Armature.006|List3 //// Armature.003
+  - first:
+      74: -4801215030542142112
+    second: Armature.006|List4 //// Armature.003
+  - first:
+      74: 4291064669212548096
+    second: Armature.006|List5 //// Armature.003
+  - first:
+      74: 8287256615128352793
+    second: Armature.003|List1 //// Armature.003
+  - first:
+      74: 964422253712043733
+    second: Armature.003|List2 //// Armature.003
+  - first:
+      74: 4681157085891857530
+    second: Armature.003|List3 //// Armature.003
+  - first:
+      74: 755356837538642116
+    second: Armature.003|List4 //// Armature.003
+  - first:
+      74: 6031332322765043024
+    second: Armature.003|List5 //// Armature.003
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 1
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature.002|List1
+      takeName: Armature.002|List1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 139
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.002|List2
+      takeName: Armature.002|List2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 139
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.002|List3
+      takeName: Armature.002|List3
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 139
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.002|List4
+      takeName: Armature.002|List4
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 139
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.002|List5
+      takeName: Armature.002|List5
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 139
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.004|List1
+      takeName: Armature.004|List1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 139
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.004|List2
+      takeName: Armature.004|List2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 139
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.004|List3
+      takeName: Armature.004|List3
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 139
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.004|List4
+      takeName: Armature.004|List4
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 139
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.004|List5
+      takeName: Armature.004|List5
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 139
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|List1
+      takeName: Armature.001|List1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 139
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|List2
+      takeName: Armature.001|List2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 139
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|List3
+      takeName: Armature.001|List3
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 139
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|List4
+      takeName: Armature.001|List4
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 139
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|List5
+      takeName: Armature.001|List5
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 139
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.006|List1
+      takeName: Armature.006|List1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 139
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.006|List2
+      takeName: Armature.006|List2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 139
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.006|List3
+      takeName: Armature.006|List3
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 139
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.006|List4
+      takeName: Armature.006|List4
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 139
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.006|List5
+      takeName: Armature.006|List5
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 139
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.003|List1
+      takeName: Armature.003|List1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 139
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.003|List2
+      takeName: Armature.003|List2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 139
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.003|List3
+      takeName: Armature.003|List3
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 139
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.003|List4
+      takeName: Armature.003|List4
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 139
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.003|List5
+      takeName: Armature.003|List5
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 139
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 54
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
