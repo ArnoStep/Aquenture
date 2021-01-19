@@ -1,2 +1,2 @@
 # Aquenture
-The game about undersea world.
+A game about undersea world.
